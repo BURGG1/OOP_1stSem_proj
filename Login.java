@@ -131,7 +131,7 @@ public class Login extends JFrame implements ActionListener
             {
                 lblMessage.setText("Logging in as " + username + " user");
                 lblMessage.setForeground(Color.GREEN);
-                User sr = new User();
+               
               
             } 
             else 
